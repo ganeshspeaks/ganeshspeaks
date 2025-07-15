@@ -1,48 +1,49 @@
-<> Hi, I'm Ganesh Kumar </>
+```bash
+#============================================#
+#        ____                  _             #
+#       |  _ \ __ _ _ __   ___| | ___   __ _ #
+#       | |_) / _` | '_ \ / __| |/ _ \ / _` |#
+#       |  __/ (_| | | | | (__| | (_) | (_| |#
+#       |_|   \__,_|_| |_|\___|_|\___/ \__, |#
+#                                      |___/ #
+#                                            #
+#        Ganesh Kumar — Developer + Poet     #
+#============================================#
 
-I don’t chase job titles.  
-I build what I believe in. Break what I must. Learn what I love. Repeat.
+> whoami
+Ganesh Kumar — I build what I believe in.  
+Break what I must. Learn what I love. Repeat.
 
+> now
+- Learning system design — not from tutorials, but by breaking & rebuilding systems
+- Exploring cyber security — because true control starts at the root
+- Writing code & poetry — both demand rhythm, depth, and clarity
 
-**Right Now**
-- Learning **system design** — not from tutorials, but from tearing things apart and wiring them back  
-- Exploring **cyber security** — because control starts with understanding where control is lost  
-- Writing **code** & **poetry** — both require rhythm, depth, and truth
+> skills --list
+Languages       : Python, Kotlin, Rust, Dart, JavaScript, Bash  
+Platforms       : Android (Jetpack Compose), Web (Next.js), Linux (Ubuntu, ParrotOS, Tails, Arch)  
+Frameworks      : Flutter, Firebase, Node.js, Tailwind, Git  
+Security Tools  : VPNs, DNS, Fingerprint Defense, Linux Internals  
+Other Powers    : Markdown, Shell scripting, Blogging, SEO, AI APIs, Digital Marketing, Video Editing  
 
+> ls ~/bitcraft/production/
+📁 StudyFriend   # AI-powered study app (flashcards, mindmaps, homework solver)  
+📁 Somix         # Secure Android browser built with Kotlin + Rust  
+📁 Tark          # Hindi programming language, beginner-friendly, open-source  
+📁 BitOS         # A digital world — part system, part sanctuary  
 
-**My Skills**
-- **Languages**: Python, Kotlin, Rust, Dart, JavaScript, Bash  
-- **Platforms**: Android (Jetpack Compose), Web (Next.js), Linux (Ubuntu lover)  
-- **Tools & Frameworks**: Flutter, Firebase, Node.js, Tailwind, Git  
-- **Security & Systems**: VPNs, DNS, fingerprint defense, low-level Linux tweaks  
-- **Others**: Markdown, Shell scripting, Open Source, SEO, Blogging, AI APIs, Video Editing
+> philosophy.txt
+✓ Build fast — but only what matters  
+✓ Keep it lean — every extra line is a liability  
+✓ Go deep — surface-level is for tourists  
+✓ Respect privacy — I don’t build spyware. I build shields  
 
+> contact_me --email
+📬 ganesh@bitcraftproduction.com  
+✊ Want to build something weird, useful, rebellious? Let’s talk.
 
-**Projects**
-They aren't just code.  
-They're my voice. My vision. My rebellion.
-
-Built under [BitCraft Production](https://bitcraftproduction.com):
-- **Study Friend** — AI-powered study companion (flashcards, mindmaps, homework solver)   
-- **Somix** — building a secure and minimal Android browser to rival Brave & Tor (Kotlin + Rust)  
-- **Tark** — Hindi programming language, open-source and beginner-friendly  
-- **BitOS** — not just an OS, a digital home for thinkers and makers
-
-
-## Stack? No. Philosophy.
-- **Build fast** — but only what matters  
-- **Keep it lean** — every extra line is a liability  
-- **Go deep** — surface-level is for tourists  
-- **Respect privacy** — I don’t build spyware. I build shields.  
-
-
-## ✉️ Contact
-Want to build something weird, useful, rebellious?
-
-📬 **ganesh@bitcraftproduction.com**
-
----
-
+> exit
 I’m not a developer who copies.  
-I’m a builder who remembers why we started in the first place.  
-And I’m just getting started.
+I’m a builder who remembers why we started.  
+And I’m just getting started...
+```
