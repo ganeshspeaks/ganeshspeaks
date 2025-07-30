@@ -3,6 +3,9 @@
 #        Ganesh Kumar — Developer + Poet     #
 #============================================#
 
+"अब से मैं भारत की आत्मा को उसकी भाषा में जगाऊँगा।"
+"From now, I will awaken the soul of Bharat in her own tongue."
+
 > whoami
 Ganesh Kumar — I build what I believe in.  
 Break what I must. Learn what I love. Repeat.
