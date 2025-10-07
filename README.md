@@ -1,45 +1,32 @@
 ```bash
-#============================================#
-#        Ganesh Kumar — Developer + Poet     #
-#============================================#
-
-"अब से मैं भारत की आत्मा को उसकी भाषा में जगाऊँगा।"
-"From now, I will awaken the soul of Bharat in her own tongue."
-
 > whoami
-Ganesh Kumar — I build what I believe in.  
-Break what I must. Learn what I love. Repeat.
+Ganesh Kumar — Flutter Developer
 
-> now
-- Learning system design — not from tutorials, but by breaking & rebuilding systems
-- Exploring cyber security — because true control starts at the root
-- Writing code & poetry — both demand rhythm, depth, and clarity
+> what_i_do
+I build mobile apps that people actually use.
+- Study Friend: 1,000+ installs, AI-powered study tools
+- 500k+ website visitors across projects
+- 100% Job Success on Upwork
 
-> skills --list
-Languages       : Python, Kotlin, Rust, Dart, JavaScript, Bash  
-Platforms       : Android (Jetpack Compose), Web (Next.js), Linux (Ubuntu, ParrotOS, Tails, Arch)  
-Frameworks      : Flutter, Firebase, Node.js, Tailwind, Git  
-Security Tools  : VPNs, DNS, Fingerprint Defense, Linux Internals  
-Other Powers    : Markdown, Shell scripting, Blogging, SEO, AI APIs, Digital Marketing, Video Editing  
+> my_stack
+Mobile: Flutter, Firebase, Supabase
+AI Integration: ChatGPT, Gemini APIs
+Web: Next.js, Tailwind
+Skills: App monetization, Play Store deployment, clean architecture
 
-> ls ~/bitcraft/production/
-📁 StudyFriend   # AI-powered study app (flashcards, mindmaps, homework solver)  
-📁 Somix         # Secure Android browser built with Kotlin + Rust  
-📁 Tark          # Hindi programming language, beginner-friendly, open-source  
-📁 BitOS         # A digital world — part system, part sanctuary  
+> why_hire_me
+✓ I ship. Fast.
+✓ Clean code, no bloat
+✓ I communicate clearly
+✓ Your deadline matters to me
 
-> philosophy.txt
-✓ Build fast — but only what matters  
-✓ Keep it lean — every extra line is a liability  
-✓ Go deep — surface-level is for tourists  
-✓ Respect privacy — I don’t build spyware. I build shields  
+> current_status
+Open for Flutter development contracts
+Specializing in: AI-powered apps, MVPs for startups, educational tech
 
-> contact_me --email
-📬 ganesh@bitcraftproduction.com  
-✊ Want to build something weird, useful, rebellious? Let’s talk.
-
-> exit
-I’m not a developer who copies.  
-I’m a builder who remembers why we started.  
-And I’m just getting started...
+> contact
+📬 ganesh@bitcraftproduction.com
+💼 Upwork: https://www.upwork.com/freelancers/~01bc89e81dcc6f343d
+🔗 Portfolio: https://ganeshspeaks.vercel.app
+💼 LinkedIn: https://www.linkedin.com/in/itsganeshkr
 ```
