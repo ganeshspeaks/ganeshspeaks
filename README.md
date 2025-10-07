@@ -1,32 +1,61 @@
 ```bash
+#============================================#
+#           Ganesh Kumar — Flutter Developer #
+#============================================#
+
 > whoami
-Ganesh Kumar — Flutter Developer
+Flutter developer who ships apps that people actually use.
+1,000+ installs. 500k+ web visitors. 100% client satisfaction.
 
-> what_i_do
-I build mobile apps that people actually use.
-- Study Friend: 1,000+ installs, AI-powered study tools
-- 500k+ website visitors across projects
-- 100% Job Success on Upwork
+> what_i_build
+📱 AI-Powered Mobile Apps
+   • Study Friend: 1,000+ installs | AI-powered study tool app
+   • AI Note App: Smart editor with slash commands & offline sync
+   • PreSum & JoyBox: 1,000+ combined installs
 
-> my_stack
-Mobile: Flutter, Firebase, Supabase
-AI Integration: ChatGPT, Gemini APIs
-Web: Next.js, Tailwind
-Skills: App monetization, Play Store deployment, clean architecture
+🌐 Web Products That Scale
+   • StudyFriend.in: 500k+ visitors | Educational platform
+   • SangamGo: Indian search engine indexing 200+ sites
 
-> why_hire_me
-✓ I ship. Fast.
-✓ Clean code, no bloat
-✓ I communicate clearly
-✓ Your deadline matters to me
+🛠️ Dev Tools & Open Source
+   • Tark: Hindi programming language for beginners
+   • AI Code Editor with intelligent suggestions
 
-> current_status
-Open for Flutter development contracts
-Specializing in: AI-powered apps, MVPs for startups, educational tech
+> tech_stack
+Mobile       : Flutter, Dart | Firebase, Supabase
+AI           : OpenAI API, Gemini API integration
+Web          : Next.js, Tailwind CSS
+Backend      : Firebase Auth, Firestore, Cloud Functions
+DevOps       : Git, Play Store deployment, App monetization
+Other        : Python, JavaScript, SEO, AdMob integration
 
-> contact
+> what_makes_me_different
+✓ Ship fast without cutting corners
+✓ Clean, maintainable code
+✓ AI integration specialist (OpenAI, Gemini, OpenRouter, custom implementations)
+✓ Full cycle: idea → design → dev → Play Store → monetization
+✓ Strong communication
+
+> currently_open_for
+- Flutter app development
+- AI feature integration for existing apps
+- MVP development for startups
+- Educational app development
+- Contract & full-time opportunities
+
+> proof_of_work
+Upwork: 100% Job Success Score (5 completed projects)
+Built, shipped, and maintained apps with real users and revenue.
+
+
+> lets_work_together
 📬 ganesh@bitcraftproduction.com
 💼 Upwork: https://www.upwork.com/freelancers/~01bc89e81dcc6f343d
 🔗 Portfolio: https://ganeshspeaks.vercel.app
 💼 LinkedIn: https://www.linkedin.com/in/itsganeshkr
+📱 Available for projects starting immediately
+
+> exit
+Building apps that solve real problems.
+One commit at a time.
 ```
