@@ -1,4 +1,4 @@
-```bash
+
 #============================================#
 #           Ganesh Kumar — Flutter Developer #
 #============================================#
@@ -58,4 +58,3 @@ Built, shipped, and maintained apps with real users and revenue.
 > exit
 Building apps that solve real problems.
 One commit at a time.
-```
