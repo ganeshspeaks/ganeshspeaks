@@ -10,7 +10,7 @@ Advanced AI implementations and scalable app architectures<br><br>
 
 💬 **Ask me about:**  
 Flutter, Dart, Firebase, Supabase, React.js, AI API integrations (OpenAI, Gemini), and building apps from scratch to Play Store.<br><br>⚡ **Fun fact:**  
-I've built apps with 1,000+ installs and a website with 500k+ visitors. I love turning ideas into shipped products.
+I've built apps with 3,000+ installs and a website with 500k+ visitors. I love turning ideas into shipped products.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -20,14 +20,14 @@ I've built apps with 1,000+ installs and a website with 500k+ visitors. I love t
 
 ## 🚀 What I've Built:
 
-**📱 Mobile Apps (1,000+ installs)**
+**📱 Mobile Apps (3,000+ installs)**
 - Study Friend — AI-powered study companion
 - AI Note App — Smart editor with slash commands & offline sync
 - PreSum & JoyBox — Utility apps with real users
 
 **🌐 Web Products**
 - StudyFriend.in — 500k+ visitors educational platform
-- SangamGo — Indian search engine indexing 200+ sites
+- Search Engine — Indian search engine indexing 200+ sites
 
 **🛠️ Dev Tools & Open Source**
 - Tark — Hindi programming language for beginners
