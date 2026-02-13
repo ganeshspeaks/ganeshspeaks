@@ -31,7 +31,8 @@ I've built apps with 3,000+ installs and a website with 500k+ visitors. I love t
 
 **Math & ML**
 - Mathematical Foundations of Information Retrieval - a thesis on vector spaces & probabilistic ranking
-- 
+
+
 **🛠️ Dev Tools & Open Source**
 - Tark — Hindi programming language for beginners
 - BitMarkdown — Flutter package for Markdown & LaTeX rendering
