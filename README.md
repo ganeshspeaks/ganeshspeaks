@@ -61,6 +61,11 @@ I've built apps with 3,000+ installs and a website with 500k+ visitors. I love t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+     height="40"
+     style="filter: invert(16%) sepia(95%) saturate(6000%) hue-rotate(350deg) brightness(90%) contrast(110%);"
+     alt="rust logo"/>
+
 
 
 </div>
