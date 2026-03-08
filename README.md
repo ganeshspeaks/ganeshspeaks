@@ -14,7 +14,7 @@ I've built apps with 3,000+ installs and a website with 500k+ visitors. I love t
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-**Connect** - [Portfolio](https://ganeshspeaks.vercel.app)  |  [Upwork](https://www.upwork.com/freelancers/~01bc89e81dcc6f343d)  |  [LinkedIn](https://www.linkedin.com/in/itsganeshkr)  |  [Email](mailto:ganesh@bitcraftproduction.com)
+**Connect** - [Portfolio](https://ganeshspeaks.vercel.app)  |  [LinkedIn](https://www.linkedin.com/in/itsganeshkr)  |  [Email](mailto:ganesh@bitcraftproduction.com)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
